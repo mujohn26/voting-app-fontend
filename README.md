@@ -34,5 +34,5 @@ Open terminal from your computer
 Click [here](https://github.com/andela/blackninjas-frontend/issues/new) to create an issue about this app
 
 ## Author:
-Team Blackninjas
+John MUGIRANEZA
 
