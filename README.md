@@ -25,6 +25,11 @@ Open terminal from your computer
 3. Run `npm run start-dev` to run the app in development environment
 4. To build the app and run app in production, run `npm run build` & to start the app, run `npm start`
 
+### Screenshot
+<img width="1439" alt="Screen Shot 2020-05-10 at 23 12 36" src="https://user-images.githubusercontent.com/52497006/81510679-eb537b80-9313-11ea-93a3-55ce99da4062.png">
+<img width="1435" alt="Screen Shot 2020-05-10 at 23 12 47" src="https://user-images.githubusercontent.com/52497006/81510684-f27a8980-9313-11ea-8e93-98c1254e7ee3.png">
+<img width="1440" alt="Screen Shot 2020-05-10 at 23 13 00" src="https://user-images.githubusercontent.com/52497006/81510686-fa3a2e00-9313-11ea-894a-fdbccd2d50af.png">
+
 ### Raising an issue
 Click [here](https://github.com/andela/blackninjas-frontend/issues/new) to create an issue about this app
 
