@@ -11,9 +11,9 @@ export const history = createBrowserHistory({
 	forceRefresh: true,
 });
 class Welcome extends Component {
-//     handleClick(){
-// history.push('/candidate');
-// }
+    handleClick(){
+history.push('/candidate');
+}
 	render() {
         const {classes} = this.props;
 		return (
@@ -28,7 +28,7 @@ class Welcome extends Component {
                             <Typography style={{fontSize:'60px'}}>voting application</Typography>
 							<Box m={4} />
 						</div>
-							<Button className={classes.button} style={{marginLeft:'32%'}} >
+							<Button className={classes.button} style={{marginLeft:'32%'}} onClick={this.handleClick.bind(this)} >
 								continue
 							</Button>
 					</Grid>
